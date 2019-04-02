@@ -1,0 +1,76 @@
+body{
+    background-color: #D9C4B5; 
+    border-image-source: 
+
+}
+<img src= alt="assets/images/WOOD.jp/Users/mathildeledent/Desktop/CODINGSLESSEN/assets/images/WOOD.jpg">
+
+
+img {
+  border-radius: 8px;
+}
+
+body {
+    color:#461919;
+    font-family: Caudex;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.05em;
+}
+
+body {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
+
+h1 {
+    color:#7D8497;
+    font-size: 13px;
+    font-style: bold;
+    font-family:"caudex";
+}
+
+h2 {
+    color:#FFFFFF;
+    font-size: 13px;
+    font-style: bold;
+    font-family:"caudex";
+}
+
+h3 {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 27px;
+    letter-spacing: 0.05em;
+    color: #461919;
+}
+
+.oval{
+    position: absolute;
+    left: 80%;
+    right: 0%;
+    top:90%;
+    bottom: 90%
+}
+
+.oval{
+    position: absolute;
+    width: 20px;
+    height: 500px;
+    left: 248px;
+    top: 415px;
+}
+
+
