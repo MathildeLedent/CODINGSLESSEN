@@ -1,3 +1,5 @@
+<<<<<<< Updated upstream
+=======
 body{
     background-color: #D9C4B5;  
 }
@@ -8,7 +10,7 @@ img {
 
 body {
     color:#461919;
-    font-family: Caudex;
+    font-family: "Caudex";
     font-style: normal;
     font-weight: bold;
     font-size: 34px;
@@ -68,3 +70,6 @@ h3 {
     left: 248px;
     top: 415px;
 }
+
+
+>>>>>>> Stashed changes
